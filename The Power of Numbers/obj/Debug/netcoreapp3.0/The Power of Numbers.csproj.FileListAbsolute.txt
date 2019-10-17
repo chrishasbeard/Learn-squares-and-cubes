@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.exe
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.deps.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.dll
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\bin\Debug\netcoreapp3.0\The Power of Numbers.pdb
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\obj\Debug\netcoreapp3.0\The Power of Numbers.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\obj\Debug\netcoreapp3.0\The Power of Numbers.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\obj\Debug\netcoreapp3.0\The Power of Numbers.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\obj\Debug\netcoreapp3.0\The Power of Numbers.dll
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\The Power of Numbers\obj\Debug\netcoreapp3.0\The Power of Numbers.pdb
