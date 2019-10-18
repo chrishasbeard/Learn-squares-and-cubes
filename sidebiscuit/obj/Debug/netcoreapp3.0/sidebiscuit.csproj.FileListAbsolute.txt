@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.exe
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.deps.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.dll
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\bin\Debug\netcoreapp3.0\sidebiscuit.pdb
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\obj\Debug\netcoreapp3.0\sidebiscuit.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\obj\Debug\netcoreapp3.0\sidebiscuit.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\obj\Debug\netcoreapp3.0\sidebiscuit.dll
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\obj\Debug\netcoreapp3.0\sidebiscuit.pdb
+C:\Users\Holmes HQ\source\repos\The Power of Numbers\sidebiscuit\obj\Debug\netcoreapp3.0\sidebiscuit.csprojAssemblyReference.cache
